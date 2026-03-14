@@ -42,7 +42,7 @@ class Program
             }
         }
 
-        // Find smallest positive number (Stretch Challenge)
+        // Find smallest positive number 
         int smallestPositive = int.MaxValue;
         foreach (int num in numbers)
         {
@@ -52,10 +52,10 @@ class Program
             }
         }
 
-        // Sort the list (Stretch Challenge)
+        // Sort the list 
         numbers.Sort();
 
-        // Display results
+        
         Console.WriteLine($"The sum is: {sum}");
         Console.WriteLine($"The average is: {average}");
         Console.WriteLine($"The largest number is: {largest}");
