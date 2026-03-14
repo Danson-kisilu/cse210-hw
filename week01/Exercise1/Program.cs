@@ -3,7 +3,7 @@ using System;
 class Program
 {
 
-    // Write a program that asks the user for their first and last name, then prints them in the format "Last, First Last".
+    //program asks the user for their first and last name, then prints them in the format "Last, First Last"
     static void Main(string[] args)
     {
         Console.Write("What is your first name? ");
