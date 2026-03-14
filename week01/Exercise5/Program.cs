@@ -44,7 +44,7 @@ class Program
         return square;
     }
 
-    // Function 5
+    // last function
     static void DisplayResult(string name, int square)
     {
         Console.WriteLine($"{name}, the square of your number is {square}");
